@@ -1,0 +1,5 @@
+module NIOS_TEST(
+input a;)
+
+
+endmodule

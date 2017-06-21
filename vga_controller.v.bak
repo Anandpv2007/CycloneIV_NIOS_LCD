@@ -1,0 +1,17 @@
+module vga_controller(
+	output [3:0] RED,
+	output [3:0] GREEN,
+	output [3:0] BLUE,
+	input CLK);
+	
+
+always @(*)
+begin
+
+
+
+
+end
+
+
+endmodule
